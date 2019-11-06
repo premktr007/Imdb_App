@@ -1,0 +1,22 @@
+@font-face {
+    font-family: DINPro-Regular;
+    src: url(../../../assets/font/dinpro_font/DINPro-Regular.otf);
+}
+
+@font-face {
+    font-family: DINPro-Bold;
+    src: url(../../../assets/font/dinpro_font/DINPro-Bold.otf);
+}
+
+ion-title {
+    font-family: DINPro-Bold;
+}
+
+ion-label,
+ion-select-option,
+ion-select,
+alert-title,
+alert-radio-label,
+h2 {
+    font-family: DINPro-Bold !important;
+}
